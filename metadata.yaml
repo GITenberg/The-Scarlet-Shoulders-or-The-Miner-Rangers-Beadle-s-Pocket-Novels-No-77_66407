@@ -1,11 +1,16 @@
 _repo: The-Scarlet-Shoulders-or-The-Miner-Rangers-Beadle-s-Pocket-Novels-No-77_66407
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66407-h/images/cover.jpg
 creator:
   author:
     agent_name: Hazard, Harry
     gutenberg_agent_id: '53695'
     url: http://www.gutenberg.org/2009/agents/53695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66407#The-Scarlet-Shoulders-or-The-Miner-Rangers-Beadle-s-Pocket-Novels-No-77
 gutenberg_issued: '2021-09-28'
 identifiers:
   gutenberg: '66407'
